@@ -51,7 +51,7 @@
 &kp Q             &kp W         &kp E         &kp R          &kp T                                        &kp Y        &kp U  &lt 5 I    &kp O    &kp P
 &kp A             &kp S         &kp D         &kp F          &kp G                        &kp MINUS       &kp H        &kp J  &kp K      &kp L    &kp SQT
 &mt LEFT_SHIFT Z  &kp X         &kp C         &kp V          &kp B      &kp TAB           &kp SEMICOLON   &kp N        &kp M  &kp COMMA  &kp DOT  &kp SLASH
-&kp LCTRL         &kp LEFT_WIN  &kp LEFT_ALT  &kp BACKSPACE  &kp SPACE  &kp LANGUAGE_2    &kp LANGUAGE_1  &lt 1 ENTER                             &mo 3
+&kp LCTRL         &kp LEFT_ALT  &kp LEFT_GUI  &kp BACKSPACE  &kp SPACE  &kp LANGUAGE_2    &kp LANGUAGE_1  &lt 1 ENTER                             &lt 3 EXCL
             >;
 
             sensor-bindings =
